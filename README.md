@@ -10,3 +10,7 @@ In this repo I provide the data used and the detailed experimental setups for th
 - `Vanilla LSTM/GRU Code` -- A folder containing Jupyter notebooks for vanilla LSTM/GRU experiments 
 - `Encoder-Decoder Code` -- A folder contatining Jupyter notebooks for encoder decoder based experiments
 - `1981_final` -- Folder containing all the datasets used in this project
+
+
+## Contact
+Fetulhak Abdurahman: `afetulhak (at) yahoo.com`
