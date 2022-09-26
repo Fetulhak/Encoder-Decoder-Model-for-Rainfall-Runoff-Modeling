@@ -1,4 +1,4 @@
-# Encoder-Decoder-Model-for-Rainfall-Runoff-Modeling
+# Encoder-Decoder-Model-for-Rainfall-Runoff-Modeling (Case of Upper Awash Basin in Ethiopia)
 Implementation of different LSTM models including Encoder-Decoder based approaches for Rainfall-Runoff Modeling for Awash River in Ethiopia.
 Time series prediction is a widespread problem. Applications range from price and weather/flood/rain-fall runoff forecasting to biological signal prediction.
 
